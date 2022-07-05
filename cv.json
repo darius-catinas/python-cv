@@ -1,0 +1,78 @@
+{
+    "personal": {
+        "dateOfBirth": "10/06/1998",
+        "firstName": "Darius",
+        "lastName": "Catinas"
+    },
+    "experience": {
+        "workProjects": [
+            {   
+                "name": "leto",
+                "description": "CRM",
+                "responsibility": "Lead engineer",
+                "startDate": "01/04/2022",
+                "endDate": "01/07/2022",
+                "technologies": [ "React", ".NET" ],
+                "client": "SDC Properties"
+            },
+            {   
+                "name": "u-pax",
+                "description": "Mobile app & Backend",
+                "responsibility": "Project manager & lead engineer",
+                "startDate": "1/02/2021",
+                "endDate": "01/06/2022",
+                "technologies": [ "Java", "Python", "Mysql"],
+                "client": "U-Pax GMBH"
+            },
+            {   
+                "name": "ActaBetis",
+                "description": "Medical App & Image processing + AI tool",
+                "responsibility": "Developer",
+                "startDate": "01/01/2021",
+                "endDate": "30/04/2021",
+                "technologies": [ "Python", "Mysql", "Android"],
+                "client": "Private investor"
+            },
+            {   
+                "name": "Remote Content Management",
+                "description": "Digital Signage",
+                "responsibility": "Developer",
+                "startDate": "1/06/2020",
+                "endDate": "1/03/2022",
+                "technologies": [ "RaspberryPi", "Python", "React"],
+                "client": "U-Pax GMBH"
+            }
+        ],
+        "personalProjects": [
+            {   
+                "name": "AutoVision",
+                "description": "Self Driving RC Car",
+                "responsibility": "",
+                "startDate": "10/06/2020",
+                "endDate": "10/06/2020",
+                "technologies": [ "Python", "RaspberryPi" ]
+            }
+        ]
+
+    },
+    "education": {
+        "highSchool": {
+            "name": "Racovita",
+            "city": "Cluj-Napoca",
+            "country": "ro",
+            "startDate": "15/01/2013",
+            "endDate": "1/07/2017",
+            "specialization": "Mate-Info"
+        },
+        "college":
+        {   
+            "name": "UBB",
+            "city": "Cluj-Napoca",
+            "country": "ro",
+            "startDate": "1/10/2017",
+            "endDate": "1/07/2020",
+            "type": "BACHELOR",
+            "specialization": "Info Engleza"
+        }
+    }
+}
